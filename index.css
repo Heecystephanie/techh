@@ -1,0 +1,79 @@
+body{
+background-color: rgb(243, 240, 240);
+}
+
+h1{
+    color: yellowgreen;
+}
+
+/* .paragraph{
+    background-color: rgb(156, 248, 239);
+} */
+
+#p2{
+    background-color: wheat;
+}
+
+#p4{
+    background-color: wheat;
+}
+
+#p6{
+    background-color: wheat;
+}
+
+#p1{
+    background-color: rgb(156, 248, 239);
+   color: rgb(149, 0, 248);
+   border: tomato 3px solid;
+}
+
+#p3{
+    background-color: rgb(156, 248, 239);
+    color: rgb(149, 0, 248);
+    border: tomato 3px dotted;
+    padding-left: 200px;
+ }
+
+ #p5{
+    background-color: rgb(156, 248, 239);
+    color: rgb(149, 0, 248);
+    border: tomato 3px solid;
+    box-shadow: rgb(248, 0, 0) 5px 15px 10px;
+    /* box shadow values are: right, down and sharpness */
+    padding-right: 200px;
+ }
+
+ #p7{
+    background-color: rgb(156, 248, 239);
+    color: rgb(149, 0, 248);
+    border: tomato 3px dashed;
+ }
+
+ .table{
+     margin-left: 350px;
+ }
+
+ .form{
+     
+ }
+
+ .paragraphs{
+     font-size: 20px;
+     width: 70%;
+     height: auto;
+ }
+ 
+ .category{
+    margin-top: 20px;
+ }
+
+ .nav-bar{
+     display: inline;
+     background-color: rgb(3, 3, 87);
+     color: whitesmoke;
+     width: 70px;
+     height: 20px;
+     font-size: 30px;
+     
+ }
